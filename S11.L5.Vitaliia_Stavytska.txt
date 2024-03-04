@@ -13,14 +13,15 @@ https://docs.google.com/spreadsheets/d/1L5vrUn7onI6KtiQS3gkB3YuPQJOvqJ1nyC9nG57D
 
      Nel contesto di Datameditation, sono stati raccolti i dati relativi ai mesi di inizio del sonno, fine del sonno e durata del sonno tramite uno smartwatch.
 
-     L'analisi di base che desidero condurre in questo lavoro riguarda proprio questi dati. Sono stati eseguiti tre tipi di analisi tramite schede: minimo, massimo e media degli orari in cui mi addormentavo, nonché degli orari in cui mi svegliavo.
+     L'analisi contiene 4 pagine. L'analisi di base che desidero condurre in questo lavoro riguarda proprio questi dati. Sono stati eseguiti tre tipi di analisi tramite schede: minimo, massimo e media degli orari in cui mi addormentavo, nonché degli orari in cui mi svegliavo.
 
      Per illustrare l'andamento nel tempo di tali orari e della durata del sonno, sono stati utilizzati tre grafici temporali. 
      
-    Inoltre, sono state create tre tabelle con formattazioni diverse per visualizzare i top 5 dei dati: la durata del sonno più lunga, i giorni in cui mi sono addormentato prima e i giorni in cui ho dormito di più. 
+    Inoltre, sono state create tre tabelle con formattazioni diverse per visualizzare i top 5 dei dati: la durata del sonno più lunga, i giorni in cui mi sono addormentato prima e i giorni in cui ho dormito di più.  La pagina è integrata con un filtro temporale e un'immagine.
+     
+     La seconda pagina è dedicata all'analisi della durata del sonno.
 
-     La pagina è integrata con un filtro temporale e un'immagine.
-
-
+    Nella terza pagina si trova l'analisi del sogno basata sulla join con altro Dataset. 
+   
 
 
