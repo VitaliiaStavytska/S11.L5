@@ -8,6 +8,8 @@ https://lookerstudio.google.com/reporting/53b8395e-ee35-47e8-9060-23ce0f236664
 
 https://docs.google.com/spreadsheets/d/140K_AKf_pG7LD1KI6DJem_m4frbborO0LuTkrpfCowE/edit?usp=sharing
 
+https://docs.google.com/spreadsheets/d/1L5vrUn7onI6KtiQS3gkB3YuPQJOvqJ1nyC9nG57DE2U/edit?usp=sharing
+
 
      Nel contesto di Datameditation, sono stati raccolti i dati relativi ai mesi di inizio del sonno, fine del sonno e durata del sonno tramite uno smartwatch.
 
