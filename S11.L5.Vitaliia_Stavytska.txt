@@ -1,0 +1,24 @@
+
+     Buongiorno,
+
+il mio lavoro si focalizza sull'analisi del mio sonno nel periodo dal 03.12.2023 al 03.03.2024 e consiste nell'esaminare il file i cui link sono indicati. 
+
+
+https://lookerstudio.google.com/reporting/53b8395e-ee35-47e8-9060-23ce0f236664
+
+https://docs.google.com/spreadsheets/d/140K_AKf_pG7LD1KI6DJem_m4frbborO0LuTkrpfCowE/edit?usp=sharing
+
+
+     Nel contesto di Datameditation, sono stati raccolti i dati relativi ai mesi di inizio del sonno, fine del sonno e durata del sonno tramite uno smartwatch.
+
+     L'analisi di base che desidero condurre in questo lavoro riguarda proprio questi dati. Sono stati eseguiti tre tipi di analisi tramite schede: minimo, massimo e media degli orari in cui mi addormentavo, nonché degli orari in cui mi svegliavo.
+
+     Per illustrare l'andamento nel tempo di tali orari e della durata del sonno, sono stati utilizzati tre grafici temporali. 
+     
+    Inoltre, sono state create tre tabelle con formattazioni diverse per visualizzare i top 5 dei dati: la durata del sonno più lunga, i giorni in cui mi sono addormentato prima e i giorni in cui ho dormito di più. 
+
+     La pagina è integrata con un filtro temporale e un'immagine.
+
+
+
+
